@@ -6,4 +6,6 @@ title {
 body {
     text-align: center;
     color: black;
+    width: 500px;
+    padding: 25px;
 }
