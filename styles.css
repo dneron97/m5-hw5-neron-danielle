@@ -16,6 +16,7 @@ header {
 body {
     text-align: center;
     text-align: justify;
+    line-height: 2;
     color: black;
     width: 500px;
     padding: 25px;
