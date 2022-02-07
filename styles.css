@@ -19,6 +19,7 @@ overflow: hidden;
 }
 
 body {
+    position: center;
     text-align: center;
     text-align: justify;
     line-height: 2;
