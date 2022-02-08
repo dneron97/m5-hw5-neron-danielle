@@ -25,6 +25,7 @@ overflow: hidden;
 }
 
 body {
+    float: left;
     position: center;
     text-align: center;
     text-align: justify;
