@@ -21,6 +21,7 @@ overflow: hidden;
 
 .sidebar {
     float: right;
+    position: relative;
 }
 
 body {
